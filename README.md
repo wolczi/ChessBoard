@@ -1,2 +1,2 @@
 # ChessBoard
- XML + JavaScript
+The project is available on my website https://wolczi.pl/szachy/
