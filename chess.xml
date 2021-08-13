@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<szachownica>
+	<bierka jaka="krol">
+		<pozycja>A5</pozycja>
+		<kolor>bialy</kolor>
+	</bierka>
+	<bierka jaka="pion">
+		<pozycja>C7</pozycja>
+		<kolor>bialy</kolor>
+	</bierka>
+	<bierka jaka="goniec">
+		<pozycja>F2</pozycja>
+		<kolor>czarny</kolor>
+	</bierka>
+	<bierka jaka="skoczek">
+		<pozycja>H3</pozycja>
+		<kolor>czarny</kolor>
+	</bierka>
+	<bierka jaka="wieza">
+		<pozycja>A4</pozycja>
+		<kolor>bialy</kolor>
+	</bierka>
+</szachownica>

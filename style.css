@@ -1,0 +1,41 @@
+body{
+background-color: black;
+}
+
+table {
+border: 1px solid black;
+}
+
+th,td {
+width: 35px;
+height: 35px;
+border: 1px solid black;
+text-align: center;
+font-weight: bold;
+font-size: 28px;
+}
+
+th{
+background: white;
+}
+
+td.yellow {
+background-color:gold;
+}
+
+td.gray{
+background-color:gray;
+}
+
+td.bialy{
+color: white;
+}
+
+td.czarny{
+color: black;
+}
+
+button{
+width: 120px;
+}
+
